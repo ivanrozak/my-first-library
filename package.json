@@ -1,0 +1,22 @@
+{
+  "name": "rozack-lib",
+  "version": "1.0.0",
+  "description": "Rozack first library",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ivanrozak/my-first-library.git"
+  },
+  "keywords": [
+    "Rozack"
+  ],
+  "author": "ivanrozack",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ivanrozak/my-first-library/issues"
+  },
+  "homepage": "https://github.com/ivanrozak/my-first-library#readme"
+}
